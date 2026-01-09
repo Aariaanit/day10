@@ -39,7 +39,6 @@ function LoginScreen({ navigation }) {
             )
         })
     }
-
     const getData = () => {
         try {
             // AsyncStorage.getItem('UserData')
